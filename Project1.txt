@@ -1,0 +1,9 @@
+
+* Project I: How to Make EC2 as Web Server
+
+In this lecture we will do a project where we will do the following thing
+* Create EC2 Instance
+* Make EC2 Instance as WebServer	
+* Link:-
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html	
+

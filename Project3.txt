@@ -1,0 +1,25 @@
+Design Custom VPC
+In this project you will design the custom VPC
+
+
+1.VPC with a single public subnet
+
+
+Link to Follow:-
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario1.html
+
+Infra Diagram:-
+
+
+
+
+-----------------
+
+VPC with public and private subnets (NAT)
+
+Link to Follow:-
+
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario2.html
+
+Infra Diagram:
+
