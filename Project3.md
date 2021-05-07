@@ -10,6 +10,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario1.html
 
 Infra Diagram:-
 
+￼![image](https://user-images.githubusercontent.com/56276945/117457434-d5988680-af66-11eb-99e4-36b4c8637b9b.png)
 
 ￼
 
