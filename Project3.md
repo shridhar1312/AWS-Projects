@@ -24,3 +24,4 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario2.html
 
 Infra Diagram:
 
+￼![image](https://user-images.githubusercontent.com/56276945/117457521-eb0db080-af66-11eb-8b8e-e48819dcffe8.png)
